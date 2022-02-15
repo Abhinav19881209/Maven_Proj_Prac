@@ -1,0 +1,7 @@
+PageObject\PageObjectInterface.class
+PageObject\customerPage.class
+TestCases\CutsomerTest.class
+TestCases\ExampleTest.class
+TestCases\loginTest.class
+PageObject\Loginpage.class
+TestCases\BaseClass.class
